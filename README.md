@@ -22,7 +22,7 @@
 18. √删除链表的节点 ->（简单版）https://leetcode.com/problems/delete-node-in-a-linked-list/ ->（升级版）https://leetcode.com/problems/remove-linked-list-elements 
 19. ×正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
 20. ×表示数值的字符串 -> https://leetcode.com/problems/valid-number/
-21. √调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity
+~~21. √调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity~~
 22. √链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 23. √链表中环的入口节点 -> https://leetcode.com/problems/linked-list-cycle-ii
 24. √反转链表 -> 只用了递归，下次用循环 https://leetcode.com/problems/reverse-linked-list/
