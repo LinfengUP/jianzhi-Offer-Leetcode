@@ -23,7 +23,7 @@
 19. ×正则表达式匹配 -> https://leetcode.com/problems/regular-expression-matching/
 20. ×表示数值的字符串 -> https://leetcode.com/problems/valid-number/
 21. ~~√调整数组顺序使奇数在偶数前 -> https://leetcode.com/problems/sort-array-by-parity~~.
-22. √链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+22. ~~√链表中倒数第K个节点 -> https://leetcode.com/problems/remove-nth-node-from-end-of-list/~~
 23. √链表中环的入口节点 -> https://leetcode.com/problems/linked-list-cycle-ii
 24. √反转链表 -> 只用了递归，下次用循环 https://leetcode.com/problems/reverse-linked-list/
 25. √合并两个排序的链表 -> https://leetcode.com/problems/merge-two-sorted-lists/
@@ -64,9 +64,9 @@
 60. n个骰子的点数 -> （中文版）https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
 61. 扑克牌中的顺子 -> （中文版）https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 62. 圆圈中最后剩下的数字 -> （中文版） https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
-63. 股票的最大利润 -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+63. ~~股票的最大利润 -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/~~
 64. 求1+2+…+n -> （中文版） https://leetcode-cn.com/problems/qiu-12n-lcof/
 65. 不用加减乘除做加法 -> （中文版） https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
 66. 构建乘积数组 -> （中文版） https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/
-67. 把字符串转换成整数 -> https://leetcode.com/problems/string-to-integer-atoi/
-68. 二叉搜索树的最近公共祖先 -> https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+67. ~~把字符串转换成整数 -> https://leetcode.com/problems/string-to-integer-atoi/~~
+68. ~~二叉搜索树的最近公共祖先 -> https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/~~
