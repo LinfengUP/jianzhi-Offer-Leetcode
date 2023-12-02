@@ -39,7 +39,7 @@
 35. √复杂链表的复制 -> https://leetcode.com/problems/copy-list-with-random-pointer/
 36. √二叉搜索树与双向链表 -> *（收费）https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/ -> （牛客网）https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&tqId=11179&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
 37. √序列化二叉树 -> https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-38. ~~√字符串的排列 -> （原理相同，leetcode用的数组）https://leetcode.com/problems/permutations/ ->(有重复元素的情况) https://leetcode.com/problems/permutations-ii~~
+38. ~~√字符串的排列 -> （原理相同，leetcode用的数组）https://leetcode.com/problems/permutations/~~ ->(有重复元素的情况) https://leetcode.com/problems/permutations-ii
 39. √数组中出现次数超过一半的数字 -> https://leetcode.com/problems/majority-element/ -> （升级版） https://leetcode.com/problems/majority-element-ii/
 40. ~~√最小的k个数 -> *（类似）https://leetcode.com/problems/kth-largest-element-in-an-array/~~
 41. √数据流中的中位数 -> * https://leetcode.com/problems/find-median-from-data-stream/
