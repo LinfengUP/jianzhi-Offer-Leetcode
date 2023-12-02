@@ -27,9 +27,9 @@
 23. √链表中环的入口节点 -> https://leetcode.com/problems/linked-list-cycle-ii
 24. √反转链表 -> 只用了递归，下次用循环 https://leetcode.com/problems/reverse-linked-list/
 25. √合并两个排序的链表 -> https://leetcode.com/problems/merge-two-sorted-lists/
-26. √树的子结构 -> * https://leetcode.com/problems/subtree-of-another-tree/
-27. √二叉树的镜像 -> https://leetcode.com/problems/invert-binary-tree
-28. √对称的二叉树 -> https://leetcode.com/problems/symmetric-tree/
+26. ~~√树的子结构 -> * https://leetcode.com/problems/subtree-of-another-tree/~~
+27. ~~√二叉树的镜像 -> https://leetcode.com/problems/invert-binary-tree~~
+28. ~~√对称的二叉树 -> https://leetcode.com/problems/symmetric-tree/~~
 29. √顺时针打印矩阵 -> https://leetcode.com/problems/spiral-matrix/
 30. √包含min函数的栈 -> https://leetcode.com/problems/min-stack/
 31. √栈的压入、弹出序列 ->* https://leetcode.com/problems/validate-stack-sequences/
