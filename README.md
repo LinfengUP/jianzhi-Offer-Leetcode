@@ -4,7 +4,7 @@
 ## 本帖记录剑指offer在leetcode主站的原题。
 1. 无
 2. 无
-3. 数组中重复的数字 -> （中文版） https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
+3. ~~数组中重复的数字 -> （中文版） https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/~~
 4. 二维数组中的查找 -> https://leetcode.cn/problems/search-a-2d-matrix-ii/
 5. 替换空格 -> （中文版） https://leetcode.cn/problems/ti-huan-kong-ge-lcof/
 6. 从尾到头打印链表 -> （中文版） https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/
@@ -25,8 +25,8 @@
 21. ~~√调整数组顺序使奇数在偶数前 -> https://leetcode.cn/problems/sort-array-by-parity~~.
 22. ~~√链表中倒数第K个节点 -> https://leetcode.cn/problems/remove-nth-node-from-end-of-list/~~
 23. √链表中环的入口节点 -> https://leetcode.cn/problems/linked-list-cycle-ii
-24. √反转链表 -> 只用了递归，下次用循环 https://leetcode.cn/problems/reverse-linked-list/
-25. √合并两个排序的链表 -> https://leetcode.cn/problems/merge-two-sorted-lists/
+24. ~~√反转链表 -> 只用了递归，下次用循环 https://leetcode.cn/problems/reverse-linked-list/~~
+25. ~~√合并两个排序的链表 -> https://leetcode.cn/problems/merge-two-sorted-lists/~~
 26. ~~√树的子结构 -> * https://leetcode.cn/problems/subtree-of-another-tree/~~
 27. ~~√二叉树的镜像 -> https://leetcode.cn/problems/invert-binary-tree~~
 28. ~~√对称的二叉树 -> https://leetcode.cn/problems/symmetric-tree/~~
